@@ -1,5 +1,5 @@
 ## snowflake
-snowflake id generator，参考[https://github.com/twitter-archive/snowflake](https://github.com/twitter-archive/snowflake)
+snowflake id generator，雪花算法id生成，参考[https://github.com/twitter-archive/snowflake](https://github.com/twitter-archive/snowflake)
 
 改动部分
 1. 自动获取worker id
